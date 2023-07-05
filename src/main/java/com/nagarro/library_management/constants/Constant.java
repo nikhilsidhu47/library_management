@@ -2,7 +2,7 @@ package com.nagarro.library_management.constants;
 
 public class Constant {
 	public static final String HIBERNATE_USERNAME="root";
-	public static final String HIBERNATE_PASSWORD="root";
+	public static final String HIBERNATE_PASSWORD="sejalsharma";
 	public static final String HIBERNATE_DIALECT="org.hibernate.dialect.MySQLDialect";
 	public static final String HIBERNATE_DRIVER="com.mysql.cj.jdbc.Driver";
 	public static final String HIBERNATE_URL="jdbc:mysql://library-management-db.czaifo3prb2p.us-east-1.rds.amazonaws.com:3306/library_login";
